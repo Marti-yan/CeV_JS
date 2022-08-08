@@ -10,5 +10,5 @@ if (hora < 12 && hora > 5){
 } else if (hora <= 24) {
     console.log("boa noite")
 } else {
-    console.log("ta fazendo oq acordado boiola")
+    console.log("ta fazendo oq acordado corno")
 }

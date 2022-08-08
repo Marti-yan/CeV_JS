@@ -7,11 +7,22 @@
 <br>
 <h3 style="text-align:center">  Exercicios 2 </h3>
 <img src="./img_readme/ex2.png">
-<hr>
-<br>
+
 <br>
 <hr>
 <h2 style="text-align:center"> Modulo E - Repetições</h2>
 <hr>
+<br>
 <h3 style="text-align:center">  Exercicios 1 </h3>
 <img src="./img_readme/ex3.png">
+<br>
+<br>
+<h3 style="text-align:center">  Exercicios 2 </h3>
+<img src="./img_readme/ex4.png">
+<br><br>
+<hr>
+<h2 style="text-align:center"> Modulo F - Arrays&functions</h2>
+<hr>
+<img src="./img_readme/ex5.png">
+
+
